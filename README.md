@@ -54,6 +54,7 @@ Un script est fourni pour lancer le serveur et 4 clients automatiquement :
 - Les joueurs peuvent :
   - Poser une question à **tous les joueurs** : ceux-ci répondent par **"oui" ou "non"**.
   - Poser une question à **un joueur spécifique** : celui-ci répond par la **quantité exacte** (0, 1 ou 2 exemplaires).
+  - Faire un Guess s'il pense avoir trouvé la carte coupable
   - Voir leur propre grille mise à jour automatiquement.
 
 Les règles de Sherlock 13 sont respectées pour les interactions entre joueurs.
@@ -75,9 +76,8 @@ sh13_etu/
 
 ## 👨‍💻 Auteurs
 
-- Arthur — développeur principal
-- [Ton Prénom / Collaborateurs à ajouter ici]
-
+- Arthur — développeur 
+- Equipe de proffesseur (Fournis le code à trou)
 ---
 
 ## 📸 Capture d’écran *(optionnel)*

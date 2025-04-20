@@ -69,7 +69,7 @@ sh13_etu/
 ├── server.c            # Serveur de jeu
 ├── lancer_partie.sh    # Script de lancement automatique
 ├── README.md
-└── .gitignore
+└── ...                 # Contenu Visuel
 ```
 
 ---
@@ -80,9 +80,9 @@ sh13_etu/
 - Equipe de proffesseur (Fournis le code à trou)
 ---
 
-## 📸 Capture d’écran *(optionnel)*
+## 📸 Capture d’écran
 
-Ajoutez ici une capture de la fenêtre de jeu avec les grilles et boutons visibles.
+![image](https://github.com/user-attachments/assets/702b5c41-db53-434f-9cc3-4e4dd19a280f)
 
 ---
 
